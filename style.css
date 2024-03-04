@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color: greenyellow;
+}
+
+.clock {
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+
+.clock .part {
+  display: inline-block;
+}
+
+.date {
+  font-size: 1rem;
+}
+
+.time {
+}

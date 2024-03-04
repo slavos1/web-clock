@@ -1,0 +1,13 @@
+= Simple digital clock web app/PWA
+
+Followed along the https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Tutorials/CycleTracker/Service_workers[MDN tutorial] + ChatGPT help.
+
+== How to install/test from VS Code
+
+. start "Go Live" (from "Live Server" extension)
+
+. then (un)install the PWA from browser at http://localhost:5500 (or whatever is set up)
+
+== Attributions
+
+The icon use here (link:clock.png[`clock.png`]) is a https://www.flaticon.com/free-icon/clock_831320?term=digital[clock free icon designed by Freepik - flaticon.com].

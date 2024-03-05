@@ -2,6 +2,7 @@
   "name": "Digital Clock PWA",
   "short_name": "Clock PWA",
   "description": "A simple PWA displaying a digital clock",
+  "id":"/",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
